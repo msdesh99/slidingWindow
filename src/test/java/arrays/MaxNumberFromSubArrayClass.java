@@ -23,6 +23,7 @@ public class MaxNumberFromSubArrayClass {
         }
             resultArr[resultIndex++]=result;
             System.out.println(Arrays.toString(resultArr));
+            System.out.println("=========================COnsole OUTPUT=======================");
     }
 
 }
